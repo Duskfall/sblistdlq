@@ -1,0 +1,76 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+.vscode/
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# Node.js/React
+node_modules/
+build/
+dist/
+coverage/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.cache
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.docker/
+*.env
+docker-compose.override.yml
+
+# Debug/Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.nupkg
+*.snk
+*.docstates
+*.[Pp]ublish.xml
+*.azurePubxml
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Temporary files
+*.tmp
+*.temp
+*~ 
